@@ -1,4 +1,4 @@
-![Pizza Sales Dashboard](https://github.com/user-attachments/assets/efc4e467-27a9-4d09-9c7b-d34c991a9eef)# **Latar Belakang**
+# **Latar Belakang**
 Dalam dunia bisnis makanan cepat saji, khususnya dalam industri pizza, analisis data penjualan memainkan peran penting. Keberhasilan suatu restoran pizza tidak hanya bergantung pada kualitas makanan yang mereka sajikan, tetapi juga pada bagaimana mereka memahami dan merespon tren penjualan serta preferensi pelanggan. Untuk membantu restoran pizza tetap kompetitif, analisis data penjualan memainkan peran penting dalam memahami pola penjualan dan memaksimalkan pendapatan.
 
 # **Table of Contents**
